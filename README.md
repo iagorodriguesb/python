@@ -1,3 +1,1 @@
-Bem vindo(a) ao meu repositório. 
-------------------------------------
-Welcome to my Python repository.
+Meu primeiro repositório Python! / My first Python repository!
